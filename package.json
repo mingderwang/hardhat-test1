@@ -1,6 +1,6 @@
 {
-  "name": "test1",
-  "version": "1.0.0",
+  "name": "hardhat-test1",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Ming-der Wang",
   "license": "MIT",
